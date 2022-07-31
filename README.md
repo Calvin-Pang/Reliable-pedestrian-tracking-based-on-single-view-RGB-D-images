@@ -1,1 +1,2 @@
 # Reliable-pedestrian-tracking-based-on-single-view-RGB-D-images
+This is the code of my graduate project **Reliable pedestrian tracking based on single view RGB-D images**. My work is mainly based on the paper of Daniil Osokin **Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose**. Here is the Github of this great work [**Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose**](https://github.com/Calvin-Pang/lightweight-human-pose-estimation.pytorch).
