@@ -14,4 +14,4 @@ the proposed feature fusion network achieves significant improvements in AP in C
 
 ## Intersted in My Work?
 
-Due to time limitations, I only did some very preliminary explorations of RGB-D human pose estimation in my graduation project. If you want to know more about what I did in the project, please contact me and I can share with you my graduate thesis. If you agree with the ideas I put forward in this project or are interested in my project, please don't hesitate to contact me because I would love to discuss with distinguished explorers or learners like me in the field of computer vision and deep learning.
+Due to time limitations, I only did some very preliminary explorations of RGB-D human pose estimation in my graduation project. If you want to know more about what I did in the project, please contact me and I can share with you my graduate thesis. If you agree with the ideas I put forward in this project or are interested in my project, please don't hesitate to contact me because I would love to discuss with distinguished explorers or learners in the field of computer vision and deep learning.
